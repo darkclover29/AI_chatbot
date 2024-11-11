@@ -23,8 +23,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/darkclover29/AI_chatbot
+   cd AI_chatbot
    ```
 
 2. **Install the dependencies:**
